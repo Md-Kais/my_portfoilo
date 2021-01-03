@@ -1,0 +1,10 @@
+body{
+    fort-family :font-family: 'Poppins', 
+sans-serif; 
+}
+h1{
+   font-size: 50px;
+}
+.name-highlighting{
+    color:yellow;
+}
