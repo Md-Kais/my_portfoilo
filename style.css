@@ -1,10 +1,16 @@
 body{
-    fort-family :font-family: 'Poppins', 
-sans-serif; 
+    font-family: 'Poppins', sans-serif;
+ 
 }
 h1{
    font-size: 50px;
 }
 .name-highlighting{
-    color:yellow;
+    color : rgb(25, 139, 35);
+}    
+.top-box{
+    width: 40%; 
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
 }
